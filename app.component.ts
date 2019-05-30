@@ -38,9 +38,9 @@ export class AppComponent {
 
 
     rowData = [
-        { make: '3', model: '4', wrap: true },
-        { make: '1', model: '2', row: 32000 },
-        { make: '1', model: '2', row: 72000 }
+        { make: '3', model: '4', date: дата },
+        { make: '1', model: '2', date: дата },
+        { make: '1', model: '2', date: дата }
 
     ];
 
